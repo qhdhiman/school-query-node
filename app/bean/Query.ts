@@ -91,6 +91,7 @@ export default class Query {
     const query = {
       keyWord1: this.keyword,
       page: this.page,
+      size: this.size,
       province: this.province,
       schooltype: this.schooltype,
       schoolprop: this.schoolprop,

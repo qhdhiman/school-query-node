@@ -11,8 +11,6 @@
   private readonly URL = 'https://data-gkcx.eol.cn/soudaxue/queryschool.html?messtype=jsonp&callback=jsonp'; // 查询接口地址
 
   public async querySchool (query: Query) {
-    this.logger.info('Query', query);
-    this.logger.info('Params', query.toParams());
     const res = await this.ctx.curl(this.URL, {dataType: 'text', data: query.toParams()});
     return res.data.replace(/^jsonp\(|\);$/g, '');
   }
