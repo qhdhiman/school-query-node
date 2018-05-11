@@ -1,0 +1,4 @@
+appveyor.yml
+.vscode/
+logs/
+node_modules/

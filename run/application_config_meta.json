@@ -1,0 +1,284 @@
+{
+  "sourceUrl": "/Users/qhdhiman/Documents/i-want-it/config/config.default.ts",
+  "keys": "/Users/qhdhiman/Documents/i-want-it/config/config.default.ts",
+  "middleware": "/Users/qhdhiman/Documents/i-want-it/config/config.default.ts",
+  "session": {
+    "maxAge": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-multipart/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+  "name": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "version": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "description": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "private": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "egg": {
+      "typescript": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "stop": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "dev": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "debug": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "test": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "cov": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "tsc": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "ci": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "autod": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "lint": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "clean": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@types/mocha": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "@types/node": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "@types/supertest": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "autod": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "egg-ts-helper": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "tslib": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "tslint": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "typescript": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "url": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+    },
+    "eslintIgnore": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "author": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "license": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "strict": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "depth": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "env": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "level": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "logging": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "port": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/qhdhiman/Documents/i-want-it/node_modules/egg/config/config.default.js"
+}
