@@ -5,7 +5,7 @@
 使用方式：http://localhost:7001?params
 ``` json
   params = {
-    keyWord1: '', // 查询关键字
+    keyword: '', // 查询关键字
     page: 1, // 当前页
     size: 30, // 每页条数
     province: '北京', // 院校省份 枚举字典 参见 Enum.ts>Province
