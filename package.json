@@ -1,5 +1,5 @@
 {
-  "name": "i-want-it",
+  "name": "school-query-node",
   "version": "1.0.0",
   "description": "全国大学信息查询系统",
   "private": true,
@@ -7,8 +7,8 @@
     "typescript": true
   },
   "scripts": {
-    "start": "egg-scripts start --daemon --title=egg-server-i-want-it",
-    "stop": "egg-scripts stop --title=egg-server-i-want-it",
+    "start": "egg-scripts start --daemon --title=egg-server-school-query-node",
+    "stop": "egg-scripts stop --title=egg-server-school-query-node",
     "dev": "egg-bin dev -r egg-ts-helper/register",
     "debug": "egg-bin debug -r egg-ts-helper/register",
     "test-local": "egg-bin test -r egg-ts-helper/register",
