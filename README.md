@@ -4,6 +4,9 @@
 高校信息查询服务。技术堆（node.js、egg.js、typescript）
 使用方式：http://localhost:7001?params
 ``` text
+  / **
+    * [params] Query Strings Parameters
+    * /
   params = {
     keyword: '', // 查询关键字
     page: 1, // 当前页
